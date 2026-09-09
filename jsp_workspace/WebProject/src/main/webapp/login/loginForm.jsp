@@ -9,7 +9,7 @@
 <body>
 <div align="center">
              <h1>로그인</h1>
-             <form action="Login" method="get">
+             <form action="Login" method="post">
              <fieldset>
              <legend>로그인</legend>
              <ul>
